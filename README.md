@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+seja bem vindo(@) ao meu perfil
+
 <!--
 **angelicasitta/angelicasitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![![image](https://github.com/user-attachments/assets/3c5e2e1b-a8f7-4453-88d1-e329eb77c649)]
